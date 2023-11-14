@@ -20,16 +20,6 @@ Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform mul
 ### Access the data
 * You can download the data from [here](). Stay Tunned! You can also email fl3es@umd.edu.
 
-## Evaluation
-Since the output of the model is limited to two types (“yes” or “no”), it is convenient to measure the metrics of accuracy and accuracy+. The former is calculated based on each question, while the latter is based on each image where both of the two questions need to be answered correctly. The random accuracies of the two metrics are equal to 50% and 25%, respectively. 
-
-
-## Evaluation Results
-
-| Model |Chart Information Extraction | Chart Reasoning | Contextual Chart Understanding |Multiple Chart Understanding | Chart Type Classification|Chart Topic Classification|Stock Chart Analysis|Chart2datatable|Chart2json|Average|
-| --- | --- |--- |--- |--- |--- | --- | --- |--- |--- |---: |
-| MiniGPT4 | 0.51 | 0.45 | 0.43 |0.44| 0.54 |0.54 |0.56 |0.50 |0.50 |0.49 |
-| Mplug-Owl | 0.55 | 0.54 | 0.53 |0.60| 0.53 |0.50 |0.55 |0.55 |0.54 |0.54 |
 
 
 
