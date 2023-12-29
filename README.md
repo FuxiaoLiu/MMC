@@ -64,7 +64,8 @@ gdown https://drive.google.com/file/d/1o3Edkf6bdyZloe_FSth8wtNmkFf_Bda_
 ```
 ### arxiv
 ```
-Stay Tuned!
+#Text
+gdown https://drive.google.com/file/d/1PI1EdgPk-gBi29adk25cjGtwskyBjcN9
 ```
 
 # Contact
