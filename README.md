@@ -27,6 +27,8 @@ This repo contains the evaluation code for the paper "[MMC: Advancing Multimodal
 ## Evaluation
 
 ```
+git clone https://github.com/FuxiaoLiu/MMC.git
+cd ./Eval
 python eval.py --path OUTPUT_PATH --subject ALL # all subject
 ```
 
