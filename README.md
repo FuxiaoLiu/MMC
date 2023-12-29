@@ -43,6 +43,11 @@ python eval.py --path OUTPUT_PATH --subject ALL # all 9 tasks
 ## MMC-Instruction
 ### Non-arxiv
 ```
+#Part 1
+#Images
+gdown https://drive.google.com/file/d/1Y17wNYdBlPxhB5KKiux2BD8C2FlA5MC9
+#Text
+gdown https://drive.google.com/file/d/1tUtntLRgsBJ9v5NcdTMvVI32ruLHAyFe
 ```
 ### arxiv
 ```
