@@ -24,7 +24,7 @@ This repo contains the evaluation code for the paper "[MMC: Advancing Multimodal
 - [12/20]🔥 Our **MMC-Benchmark** is available.
 
 
-## Evaluation
+## MMC-Benchmark
 ### Images
 ```
 gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
@@ -38,6 +38,14 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 git clone https://github.com/FuxiaoLiu/MMC.git
 cd ./Eval
 python eval.py --path OUTPUT_PATH --subject ALL # all subject
+```
+
+## MMC-Instruction
+### Non-arxiv
+```
+```
+### arxiv
+```
 ```
 
 # Contact
