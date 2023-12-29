@@ -37,7 +37,7 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 ```
 git clone https://github.com/FuxiaoLiu/MMC.git
 cd ./Eval
-python eval.py --path OUTPUT_PATH --subject ALL # all subject
+python eval.py --path OUTPUT_PATH --subject ALL # all 9 tasks
 ```
 
 ## MMC-Instruction
