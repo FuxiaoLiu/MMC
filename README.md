@@ -24,15 +24,11 @@ This repo contains the evaluation code for the paper "[MMC: Advancing Multimodal
 - [12/20]🔥 Our **MMC-Benchmark** is available.
 
 
-## Distributions and Statistic of **MMC-Benchmark**
+## Evaluation
 
-<p align="center">
-    <a href="https://llava.hliu.cc/"><img src="./images/statistic3.jpg" width="100%"></a> <br>
-</p>
-
-<p align="center">
-    <a href="https://llava.hliu.cc/"><img src="./images/statistic2.jpg" width="100%"></a> <br>
-</p>
+```
+python eval.py --path OUTPUT_PATH --subject ALL # all subject
+```
 
 # Contact
 Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
