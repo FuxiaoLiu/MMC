@@ -25,6 +25,14 @@ This repo contains the evaluation code for the paper "[MMC: Advancing Multimodal
 
 
 ## Evaluation
+### Images
+```
+gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
+```
+### Questions and Answers
+```
+```
+### Implementation
 
 ```
 git clone https://github.com/FuxiaoLiu/MMC.git
