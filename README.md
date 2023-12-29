@@ -1,3 +1,4 @@
+
 # MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning
 
 This repo contains the evaluation code for the paper "[MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf)"
