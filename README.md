@@ -54,6 +54,11 @@ gdown https://drive.google.com/file/d/1tUtntLRgsBJ9v5NcdTMvVI32ruLHAyFe
 gdown https://drive.google.com/uc?id=1Dey-undzW2Nl21CYLFSkP_Y4RrfRJkYd
 #Text
 gdown https://drive.google.com/uc?id=13j2U-ectsYGR92r6J5hPdhT8T5ezItHF
+#Part3
+#Images
+gdown https://drive.google.com/file/d/1W8sQ6fLkOm8bZo_SrRIiIGELS90aNKq7
+#Text
+gdown https://drive.google.com/file/d/1o3Edkf6bdyZloe_FSth8wtNmkFf_Bda_
 ```
 ### arxiv
 ```
