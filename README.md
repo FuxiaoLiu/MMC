@@ -21,24 +21,6 @@ This repo contains the data and code for the paper "[MMC: Advancing Multimodal C
 </p>
 
 
-
-## MMC-Benchmark
-### Images
-```
-gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
-```
-### Questions and Answers
-```
-gdown https://drive.google.com/file/d/1iojBp5uzTAjZBtGU0cmXawzzWrnzrc1L
-```
-### Implementation
-
-```
-git clone https://github.com/FuxiaoLiu/MMC.git
-cd ./Eval
-python eval.py
-```
-
 ## MMC-Instruction
 ### Non-arxiv
 ```
@@ -67,5 +49,22 @@ gdown https://drive.google.com/file/d/1PI1EdgPk-gBi29adk25cjGtwskyBjcN9
 ```
 More will be released!
 
+
+## MMC-Benchmark
+### Images
+```
+gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
+```
+### Questions and Answers
+```
+gdown https://drive.google.com/file/d/1iojBp5uzTAjZBtGU0cmXawzzWrnzrc1L
+```
+### Implementation
+
+```
+git clone https://github.com/FuxiaoLiu/MMC.git
+cd ./Eval
+python eval.py
+```
 # Contact
 Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
