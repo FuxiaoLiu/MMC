@@ -32,14 +32,14 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 ```
 ### Questions and Answers
 ```
-Stay Tuned!
+gdown https://drive.google.com/file/d/1iojBp5uzTAjZBtGU0cmXawzzWrnzrc1L
 ```
 ### Implementation
 
 ```
 git clone https://github.com/FuxiaoLiu/MMC.git
 cd ./Eval
-python eval.py --path OUTPUT_PATH --subject ALL # all 9 tasks
+python eval.py
 ```
 
 ## MMC-Instruction
@@ -60,15 +60,15 @@ gdown https://drive.google.com/uc?id=13j2U-ectsYGR92r6J5hPdhT8T5ezItHF
 gdown https://drive.google.com/file/d/1W8sQ6fLkOm8bZo_SrRIiIGELS90aNKq7
 #Text
 gdown https://drive.google.com/file/d/1o3Edkf6bdyZloe_FSth8wtNmkFf_Bda_
-#More will be released!
 ```
 ### arxiv
 ```
 #Images
-
+gdown https://drive.google.com/file/d/1QKQOMIH9Wd3EQEYr3IV2u9qQXmSZy49G
 #Text
 gdown https://drive.google.com/file/d/1PI1EdgPk-gBi29adk25cjGtwskyBjcN9
 ```
+More will be released!
 
 # Contact
 Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
