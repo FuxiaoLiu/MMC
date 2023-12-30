@@ -20,9 +20,6 @@ This repo contains the data and code for the paper "[MMC: Advancing Multimodal C
     <a href="https://llava.hliu.cc/"><img src="./images/WechatIMG6440.jpg" width="100%"></a> <br>
 </p>
 
-## Updates
-- [-/-]🔥 Our **MMC-Instruction** and Evaluation Code will be released soon.
-- [12/20]🔥 Our **MMC-Benchmark** is available.
 
 
 ## MMC-Benchmark
