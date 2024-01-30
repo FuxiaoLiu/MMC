@@ -59,10 +59,6 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 ```
 gdown https://drive.google.com/file/d/1HOVhPuFJ0roaHt-6AFyYX2E5MxKjoFug
 ```
-### Implementation
 
-```
-git clone https://github.com/FuxiaoLiu/MMC.git
-```
 # Contact
 Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
