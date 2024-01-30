@@ -3,6 +3,9 @@
 
 This repo contains the data and code for the paper "[MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf)"
 
+# Contact
+Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
+
 ```
 @article{liu2023mmc,
   title={MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning},
@@ -62,7 +65,5 @@ Multi-choice QA will be released this week.
 ```
 
 ## MMCA
-I will release the model soon!
+We will release the model soon!
 
-# Contact
-Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
