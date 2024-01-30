@@ -57,14 +57,12 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 ```
 ### Questions and Answers
 ```
-gdown https://drive.google.com/file/d/1iojBp5uzTAjZBtGU0cmXawzzWrnzrc1L
+gdown https://drive.google.com/file/d/1HOVhPuFJ0roaHt-6AFyYX2E5MxKjoFug
 ```
 ### Implementation
 
 ```
 git clone https://github.com/FuxiaoLiu/MMC.git
-cd ./Eval
-python eval.py
 ```
 # Contact
 Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
