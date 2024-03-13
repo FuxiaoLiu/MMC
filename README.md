@@ -1,5 +1,5 @@
 
-# MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning
+# MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning [NAACL 2024](https://2024.naacl.org)
 
 This repo contains the data and code for the paper "[MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf)"
 
