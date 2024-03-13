@@ -61,7 +61,6 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 ### Questions and Answers
 ```
 gdown https://drive.google.com/file/d/1HOVhPuFJ0roaHt-6AFyYX2E5MxKjoFug
-Multi-choice QA will be released this week.
 ```
 
 ## MMCA
