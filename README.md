@@ -1,10 +1,11 @@
 
 # MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning [[NAACL 2024]](https://2024.naacl.org)
 
-This repo contains the data and code for the paper "[MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf)"
+This is the PyTorch implementation of the paper ***MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning***, the paper is available at https://arxiv.org/abs/2311.10774.
 
 # Contact
-Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
+
+If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu). 
 
 ```
 @article{liu2023mmc,
@@ -13,7 +14,21 @@ Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu).
   journal={arXiv preprint arXiv:2311.10774},
   year={2023}
 }
+@article{liu2023aligning,
+  title={Aligning Large Multi-Modal Model with Robust Instruction Tuning},
+  author={Liu, Fuxiao and Lin, Kevin and Li, Linjie and Wang, Jianfeng and Yacoob, Yaser and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2306.14565},
+  year={2023}
+}
+@article{liu2023hallusionbench,
+  title={HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V (ision), LLaVA-1.5, and Other Multi-modality Models},
+  author={Liu, Fuxiao and Guan, Tianrui and Li, Zongxia and Chen, Lichang and Yacoob, Yaser and Manocha, Dinesh and Zhou, Tianyi},
+  journal={arXiv preprint arXiv:2310.14566},
+  year={2023}
+}
 ```
+
+# Note
 
 - We introduce a large-scale MultiModal Chart Instruction (**MMC-Instruction**) dataset supporting diverse tasks and chart types. Leveraging this data.
 - We develop Multi-Modal Chart Assistant (MMCA), an LMM that achieves state-of-the-art performance on existing chart QA benchmarks.
@@ -23,8 +38,13 @@ Fuxiao Liu [fl3es@umd.edu](fl3es@umd.edu).
     <a href="https://llava.hliu.cc/"><img src="./images/WechatIMG6440.jpg" width="100%"></a> <br>
 </p>
 
+# News
 
-## MMC-Instruction
+- [03/13]🔥 Our paper ["MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning"](https://arxiv.org/pdf/2311.10774.pdf) is accepted to **[NAACL 2024](https://2024.naacl.org)**.
+- [02/26]🔥 Our paper ["HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models"](https://arxiv.org/abs/2310.14566) is accpeted to **[CVPR 2024](https://cvpr.thecvf.com)**.
+- [01/15]🔥 Our paper [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](http://arxiv.org/abs/2306.14565) is accepted by **[ICLR 2024](https://iclr.cc)**
+
+## MMC-Instruction Dataset
 ### Non-arxiv
 ```
 #Part 1
@@ -63,6 +83,8 @@ gdown https://drive.google.com/file/d/19CA-AFKshOVEOabK3-pkkZfjbtaJFP7Y
 gdown https://drive.google.com/file/d/1HOVhPuFJ0roaHt-6AFyYX2E5MxKjoFug
 ```
 
-## MMCA
-We will release the model soon!
+## MMCA Gradio demo
+```
+sh demo/start.sh
+```
 
