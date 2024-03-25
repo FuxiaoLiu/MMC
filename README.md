@@ -109,18 +109,6 @@ python -m serve.web_server --base-model 'the mplug-owl checkpoint directory' --b
   journal={arXiv preprint arXiv:2311.10774},
   year={2023}
 }
-@article{liu2023aligning,
-  title={Aligning Large Multi-Modal Model with Robust Instruction Tuning},
-  author={Liu, Fuxiao and Lin, Kevin and Li, Linjie and Wang, Jianfeng and Yacoob, Yaser and Wang, Lijuan},
-  journal={arXiv preprint arXiv:2306.14565},
-  year={2023}
-}
-@article{liu2023hallusionbench,
-  title={HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V (ision), LLaVA-1.5, and Other Multi-modality Models},
-  author={Liu, Fuxiao and Guan, Tianrui and Li, Zongxia and Chen, Lichang and Yacoob, Yaser and Manocha, Dinesh and Zhou, Tianyi},
-  journal={arXiv preprint arXiv:2310.14566},
-  year={2023}
-}
 ```
 
 # Disclaimer
