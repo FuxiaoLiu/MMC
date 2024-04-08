@@ -24,7 +24,7 @@ If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.ed
 - [01/15]🔥 Our paper [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](http://arxiv.org/abs/2306.14565) is accepted by **[ICLR 2024](https://iclr.cc)**
 
 ## MMC-Alignment Dataset
-### Scientific Chart-Caption
+### Scientific(Arxiv) Chart-Caption
 ```
 #Images
 gdown https://drive.google.com/file/d/1QKQOMIH9Wd3EQEYr3IV2u9qQXmSZy49G
