@@ -33,8 +33,9 @@ gdown https://drive.google.com/file/d/1l7Ft4xIl9fvSuxNQ-QPo0hLP7jNx6Mnt
 ```
 
 ### Existing Datasets
-
-Statist, PlotQA, VisText, ChartInfo, Unichart.
+```
+Source: Statist, PlotQA, VisText, ChartInfo, Unichart.
+```
 
 ## MMC-Instruction Dataset
 ### Non-arxiv
