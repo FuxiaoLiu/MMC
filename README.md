@@ -23,6 +23,19 @@ If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.ed
 - [02/26]🔥 Our paper ["HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models"](https://arxiv.org/abs/2310.14566) is accpeted to **[CVPR 2024](https://cvpr.thecvf.com)**.
 - [01/15]🔥 Our paper [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](http://arxiv.org/abs/2306.14565) is accepted by **[ICLR 2024](https://iclr.cc)**
 
+## MMC-Alignment Dataset
+### Scientific Chart-Caption
+```
+#Images
+gdown https://drive.google.com/file/d/1QKQOMIH9Wd3EQEYr3IV2u9qQXmSZy49G
+#Text
+gdown https://drive.google.com/file/d/1l7Ft4xIl9fvSuxNQ-QPo0hLP7jNx6Mnt
+```
+
+### Existing Datasets
+
+Statist, PlotQA, VisText, ChartInfo, Unichart.
+
 ## MMC-Instruction Dataset
 ### Non-arxiv
 ```
