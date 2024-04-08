@@ -33,9 +33,8 @@ gdown https://drive.google.com/file/d/1l7Ft4xIl9fvSuxNQ-QPo0hLP7jNx6Mnt
 ```
 
 ### Existing Datasets
-```
-Source: Statist, PlotQA, VisText, ChartInfo, Unichart.
-```
+
+We select the data with the chart summarization task from Source: Statist, PlotQA, VisText, ChartInfo, Unichart. We will release it when we solve the license issue. 
 
 ## MMC-Instruction Dataset
 ### Non-arxiv
