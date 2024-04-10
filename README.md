@@ -27,7 +27,7 @@ If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.ed
 ### Scientific(Arxiv) Chart-Caption
 ```
 #Images
-gdown https://drive.google.com/file/d/1QKQOMIH9Wd3EQEYr3IV2u9qQXmSZy49G
+gdown https://drive.google.com/file/d/
 #Text
 gdown https://drive.google.com/file/d/1l7Ft4xIl9fvSuxNQ-QPo0hLP7jNx6Mnt
 ```
