@@ -36,12 +36,12 @@ gdown https://drive.google.com/file/d/1l7Ft4xIl9fvSuxNQ-QPo0hLP7jNx6Mnt
 
 We select the data with the chart summarization task from Source: Statist, PlotQA, [VisText](https://github.com/mitvis/vistext), ChartInfo, Unichart. Please see details in our [paper](https://arxiv.org/abs/2311.10774). 
 
-···
+```
 #Images
 Will upload soon!
 #Text
 gdown https://drive.google.com/file/d/18SJ13V4qEt1ixOQPbRmEnZKQrjS5v14T
-···
+```
 
 ## MMC-Instruction Dataset
 ### Non-arxiv
