@@ -13,8 +13,7 @@ If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.ed
 - We develop Multi-Modal Chart Assistant (MMCA), an LMM that achieves state-of-the-art performance on existing chart QA benchmarks.
 - We also propose a Multi-Modal Chart Benchmark (**MMC-Benchmark**), a comprehensive human-annotated benchmark with nine distinct tasks evaluating reasoning capabilities over charts. Extensive experiments on MMC-Benchmark reveal the limitations of existing LMMs on correctly interpreting charts, even for the most recent GPT-4V model. 
 
-<p align="center">
-    <a href="https://llava.hliu.cc/"><img src="./images/WechatIMG6440.jpg" width="100%"></a> <br>
+<p align="center"><img src="./images/WechatIMG6440.jpg" width="100%"></a> <br>
 </p>
 
 # News
