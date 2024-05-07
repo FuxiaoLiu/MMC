@@ -37,7 +37,7 @@ We select the data with the chart summarization task from Source: Statist, PlotQ
 
 ```
 #Images
-gdown https://drive.google.com/file/d/1Y17wNYdBlPxhB5KKiux2BD8C2FlA5MC9
+gdown https://drive.google.com/file/d/1e1mx_nb5PWjPkuIsJkY8B4xSET9DOWTa
 #Text
 gdown https://drive.google.com/file/d/18SJ13V4qEt1ixOQPbRmEnZKQrjS5v14T
 ```
