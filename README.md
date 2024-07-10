@@ -88,6 +88,10 @@ We finetuned mplug-owl on 8 V100. If you meet any questions when implement on V1
 
 **2. Download the Checkpoint**
 
+```
+gdown https://drive.google.com/uc?id=11KJA8bSNi1yxgcijsG3xfBHvWe8C748F
+```
+
 **3. Edit the Code**
 
 As for the `mplug-owl/serve/model_worker.py`, edit the following code and enter the path of the lora model weight in lora_path.
