@@ -1,1 +1,4 @@
-
+Imagine you are an intelligent teacher. Thoroughly read both the reference answer and the prediction answer to ensure a clear understanding of the information provided. Assess the accuracy of the predictions, and note that a prediction answer will be considered incorrect if it contradicts the reference answer.
+Question: ""
+Reference answer: ""
+Prediction answer: ""
