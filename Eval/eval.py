@@ -1,6 +1,4 @@
 
-#For Multi-choice QA task
-"""Parse and Evalate"""
 import os
 import json
 from argparse import ArgumentParser
