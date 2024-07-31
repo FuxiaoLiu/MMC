@@ -48,7 +48,7 @@ It contains three sub-directories MMC-Alignment, MMC-Benchmark, and MMC-Instruct
 
 - mmc_instruction_arxiv_text.jsonl: 300,000 question-answer pairs synthesized with arXiv data for instruction tuning.
 - mmc_instruction_arxiv_images.tar.gz: images for mmc_instruction_arxiv_text.jsonl.
-- mmc_instruction_non-arxiv_text.jsonl: 110,020 extra question-answer pairs for instruction tuning.
+- mmc_instruction_non-arxiv_text.jsonl: 109,887 extra question-answer pairs for instruction tuning.
 - mmc_instruction_non-arxiv_images.tar.gz: images for mmc_instruction_non-arxiv_text.jsonl.
 
 ## Existing Datasets
