@@ -41,8 +41,10 @@ It contains three sub-directories MMC-Alignment, MMC-Benchmark, and MMC-Instruct
 
 ### MMC-Benchmark
 
-- mmc_benchmark_text.jsonl: 2,126 instances for testing and benchmarking.
+- mmc_benchmark_text.jsonl: 2,126 true/false questions for benchmarking.
 - mmc_benchmark_images.tar.gz: images for mmc_benchmark_text.jsonl.
+- mmc_benchmark_mqa_text.jsonl: 808 multiple-choice questions for benchmarking.
+- mmc_benchmark_mqa_images.tar.gz: images for mmc_benchmark_mqa_images.jsonl.
 
 ### MMC-Instruction
 
