@@ -129,6 +129,3 @@ If you have any questions about this work, please email Fuxiao Liu [fl3es@umd.ed
 }
 ```
 
-## Disclaimer
-
-We develop this repository for RESEARCH purposes, so it can only be used for personal/research/non-commercial purposes.
